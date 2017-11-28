@@ -16,7 +16,6 @@ def index():
 
 @app.route('/api/upload_all', methods=['POST'])
 def upload_all():
-    #pdb.set_trace()
     content = request.form['input']
     response = ""
     if content == "":

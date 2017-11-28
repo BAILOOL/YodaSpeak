@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>Yoda-speak translator using seq2seq</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+<style type="text/css">*{box-sizing:border-box;margin:0;padding:0;}
+
+body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;color:#003262;}.container{margin:0 auto;max-width:960px;padding:0 10px;}
+
+header{
+	   background-color: DarkGreen;
+	   padding:20px 0;
+	   margin-bottom:20px;
+}header 
+
+h1{color:GreenYellow;margin-bottom:5px;}
+
+input[type="text"]{border:2px solid #DDD5C7;font-size:1.5rem;padding:10px;outline:none;border-radius:3px;width:100%;margin-bottom:20px;}
+
+input[type="text"]:focus{border-color:#00B0DA;}
+
+#answer{text-align:center;margin-bottom:20px;}
+#answer p{color:#888;font-size:1.25rem;}
+#answer p:first-of-type{color:#003262;font-weight:bold;font-size:1.5rem;}
+</style>
+
+</head>
+<body>
+<header>
+<div class="container">
+<h1> <img style="vertical-align:middle" src="lightsaber.png" alt="lightsaber"/> 
+     <span style="">Yoda-speak translator using seq2seq</span>
+</h1>
+</div>
+</header>
+
+<div class="container">
+<input type="text" placeholder="Type your sentence here" id="input_text"/>
+<input type="text" placeholder="Yoda translation will appear here" id="output_text"/>
+
+<p align="center">
+<button class="btn-green" style="height:50px; width:100px;" onclick="send_to_server(this)" id="{{ data }}">Translate</button>
+</p>
+
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-101328086-2', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+
+<script type="text/javascript">
+		function clearResponse() {
+			$(output_text).val("");
+		}
+
+		function send_to_server($this){
+		clearResponse();	
+        console.log("button clicked");
+        var text_to_send = $(input_text).val();
+        console.log($(input_text).val());
+        $.post('/api/upload_all', {
+				'input': text_to_send
+			}, function(response) {
+				console.log(response);
+				if (response.error) {
+					clearResponse();
+					alert(response.error);
+				} else {
+					$(output_text).val(response.output);
+				}
+			})
+        }
+
+	</script>
+</body>
+</html>

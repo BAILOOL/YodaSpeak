@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# trained models
+Models/translate.ckpt-300000.data-00000-of-00001
+Models/checkpoint
+Models/translate.ckpt-300000.index
+Models/translate.ckpt-300000.meta

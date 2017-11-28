@@ -20,7 +20,10 @@ Tensorflow team has provided an awesome [seq2seq tutorial](https://www.tensorflo
 | Yoda is not trained enough.| Enough enough is enough not . |
 
 ## Comments
-Obviously, as you might have noticed, the translation is not working perfectly. I have used only about 200k sentences for the training. It should be better once more data is fed.
+
+1. Obviously, as you might have noticed, the translation is not working perfectly. I have used only about 200k sentences for the training. It should be better once more data is fed.
+
+2. The server is not made for production. Thus, might fail regularly.
 
 ## How to run locally
 Clone the repo to your local disk:

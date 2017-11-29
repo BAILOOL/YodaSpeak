@@ -12,16 +12,35 @@ Tensorflow team has provided an awesome [seq2seq tutorial](https://www.tensorflo
 | The force is strong with you!    |   Strong with you , the force is !   |
 | I feel the presence of dark force!    | Of honorary force I feel the presence . Yes , hmmm .     |
 | How much is used car? | Used used , how much is , hmm ? |
+| You seem to be quite bright | To be quite bright you seem . |
+| Not all individuals have the right to ignore the theory of the Paradoxical Illusions | The right to the reproduction of the smith , not all individuals have . Yes , hmmm . |
 | Who is the president of United States? | The president of united states , who is , hmm ? |
 | What time is it now? | It now , what time is , hmm ? Hmmmmmm . |
+| I need to go grocery shopping | To go shopping shopping I need . |
 | Do you want to come to my house tonight? | Go do to my trek trek do you , hmm ? |
 | You must have patience! | Fun , you must have ! |
+| Why are you here | Here , why you are . Yeesssssss . |
+| My name is John. | John , my name is . |
+| My name is Adam | , Useful name is . |
+| I am your father. | Your victim , I am . |
+| I love you | You , I love you . |
+| You have become powerful | Become powerful , you have . |
+| Tell me some wise words! | Me some words tell Me ! Herh herh herh . |
+| The belief exists in returning to integrity. | To russia the moral exists in ss . |
+| You should stop cursing | Never stop , you should . |
+| That sounds sweet | sweet sweet sweet . Yeesssssss . |
+| That's the information on the concept of relief. | The registration on the development of concept , that is . |
+| i don't perform well under pressure | I well perform under pressure , they not . Yeesssssss . |
 | You should die    | Be die , you should .     |
 | Yoda is not trained enough.| Enough enough is enough not . |
 
 ## Comments
 
 1. Obviously, as you might have noticed, the translation is not working perfectly. I have used only about 200k sentences for the training. It should be better once more data is fed.
+
+2. I have notices that adding end of sentence punctuation ('.','?','!') works better than without it.
+
+3. Yoda is neither able to speak super short phrases ("Hello", "Hi") nor very long sentences.
 
 2. The server is not made for production. Thus, might fail regularly.
 

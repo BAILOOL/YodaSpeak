@@ -11,6 +11,9 @@ Tensorflow team has provided an awesome [seq2seq tutorial](https://www.tensorflo
 |-----|------|
 | The force is strong with you!    |   Strong with you , the force is !   |
 | I feel the presence of dark force!    | Of honorary force I feel the presence . Yes , hmmm .     |
+| why are you speaking about wine? | Why asking about wine are you , hmm ? Hmmmmmm . |
+| How are you? | How , you are , hmm ? Yeesssssss . |
+| I love to have sex today! | Me friends , I love to have ! |
 | How much is used car? | Used used , how much is , hmm ? |
 | You seem to be quite bright | To be quite bright you seem . |
 | Not all individuals have the right to ignore the theory of the Paradoxical Illusions | The right to the reproduction of the smith , not all individuals have . Yes , hmmm . |
@@ -38,7 +41,7 @@ Tensorflow team has provided an awesome [seq2seq tutorial](https://www.tensorflo
 
 1. Obviously, as you might have noticed, the translation is not working perfectly. I have used only about 200k sentences for the training. It should be better once more data is fed.
 
-2. I have notices that adding end of sentence punctuation ('.','?','!') works better than without it.
+2. I have noticed that adding end of sentence punctuation ('.','?','!') works better than without it.
 
 3. Yoda is neither able to speak super short phrases ("Hello", "Hi") nor very long sentences.
 

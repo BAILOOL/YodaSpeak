@@ -15,6 +15,7 @@ Tensorflow team has provided an awesome [seq2seq tutorial](https://www.tensorflo
 | why are you speaking about wine? | Why asking about wine are you , hmm ? Hmmmmmm . |
 | How are you? | How , you are , hmm ? Yeesssssss . |
 | I love to have sex today! | Me friends , I love to have ! |
+| Are you going to the pub tonight | Going going to the dangerous going are you . Hmmmmmm . |
 | How much is used car? | Used used , how much is , hmm ? |
 | i want to win the war | I extend the war want to . |
 | You seem to be quite bright | To be quite bright you seem . |
@@ -24,7 +25,9 @@ Tensorflow team has provided an awesome [seq2seq tutorial](https://www.tensorflo
 | I need to go grocery shopping | To go shopping shopping I need . |
 | Do you want to come to my house tonight? | Go do to my trek trek do you , hmm ? |
 | You must have patience! | Fun , you must have ! |
+| What's up?  | What ' s up , hmm ? |
 | Why are you here | Here , why you are . Yeesssssss . |
+| what is your name | Your name , what is . |
 | My name is John. | John , my name is . |
 | My name is Adam | , Useful name is . |
 | where are you going? | Going are you going , hmm where are , hmm |

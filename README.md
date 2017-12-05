@@ -30,6 +30,7 @@ Tensorflow team has provided an awesome [seq2seq tutorial](https://www.tensorflo
 | what is your name | Your name , what is . |
 | My name is John. | John , my name is . |
 | My name is Adam | , Useful name is . |
+| hi andrew | Thinking ng . Herh herh herh . |
 | where are you going? | Going are you going , hmm where are , hmm |
 | I am your father. | Your victim , I am . |
 | I love you | You , I love you . |

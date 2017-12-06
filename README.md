@@ -45,6 +45,7 @@ Tensorflow team has provided an awesome [seq2seq tutorial](https://www.tensorflo
 | i don't perform well under pressure | I well perform under pressure , they not . Yeesssssss . |
 | You should die    | Be die , you should .     |
 | Yoda is not trained enough.| Enough enough is enough not . |
+| I wish you all the best | You all the best I wish . |
 
 ## Comments
 

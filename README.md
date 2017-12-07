@@ -14,10 +14,12 @@ Tensorflow team has provided an awesome [seq2seq tutorial](https://www.tensorflo
 | you must be patient and learn | Learn and learn , you must be . Yeesssssss . |
 | why are you speaking about wine? | Why asking about wine are you , hmm ? Hmmmmmm . |
 | How are you? | How , you are , hmm ? Yeesssssss . |
+| You can get it done! | Get it done , you can ! Hmmmmmm . |
 | I love to have sex today! | Me friends , I love to have ! |
 | Are you going to the pub tonight | Going going to the dangerous going are you . Hmmmmmm . |
 | How much is used car? | Used used , how much is , hmm ? |
 | i want to win the war | I extend the war want to . |
+| What is this magic? | This magic , what is , hmm ? |
 | You seem to be quite bright | To be quite bright you seem . |
 | Not all individuals have the right to ignore the theory of the Paradoxical Illusions | The right to the reproduction of the smith , not all individuals have . Yes , hmmm . |
 | Who is the president of United States? | The president of united states , who is , hmm ? |
@@ -43,6 +45,7 @@ Tensorflow team has provided an awesome [seq2seq tutorial](https://www.tensorflo
 | you must learn | Learn , you must . |
 | That's the information on the concept of relief. | The registration on the development of concept , that is . |
 | i don't perform well under pressure | I well perform under pressure , they not . Yeesssssss . |
+| I am the master | The master , I am . |
 | You should die    | Be die , you should .     |
 | Yoda is not trained enough.| Enough enough is enough not . |
 | I wish you all the best | You all the best I wish . |

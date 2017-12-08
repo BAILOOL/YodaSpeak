@@ -18,6 +18,7 @@ Tensorflow team has provided an awesome [seq2seq tutorial](https://www.tensorflo
 | I love to have sex today! | Me friends , I love to have ! |
 | Are you going to the pub tonight | Going going to the dangerous going are you . Hmmmmmm . |
 | How much is used car? | Used used , how much is , hmm ? |
+| you are idiot | Thinking , you are . Yeesssssss . |
 | i want to win the war | I extend the war want to . |
 | What is this magic? | This magic , what is , hmm ? |
 | You seem to be quite bright | To be quite bright you seem . |
@@ -40,6 +41,7 @@ Tensorflow team has provided an awesome [seq2seq tutorial](https://www.tensorflo
 | Tell me some wise words! | Me some words tell Me ! Herh herh herh . |
 | The belief exists in returning to integrity. | To russia the moral exists in ss . |
 | You should stop cursing | Never stop , you should . |
+| Today is a good day to die. | Good day to die , today is . |
 | may the force be with you | With you may the force be . |
 | That sounds sweet | sweet sweet sweet . Yeesssssss . |
 | you must learn | Learn , you must . |

@@ -16,7 +16,7 @@ Tensorflow team has provided an awesome [seq2seq tutorial](https://www.tensorflo
 | How are you? | How , you are , hmm ? Yeesssssss . |
 | You can get it done! | Get it done , you can ! Hmmmmmm . |
 | I love to have sex today! | Me friends , I love to have ! |
-| Are you going to the pub tonight | Going going to the dangerous going are you . Hmmmmmm . |
+| Are you going to the pub tonight | Going going to the dangerous going are you. Hmmmmmm. |
 | How much is used car? | Used used , how much is , hmm ? |
 | you are idiot | Thinking , you are . Yeesssssss . |
 | i want to win the war | I extend the war want to . |
@@ -26,6 +26,7 @@ Tensorflow team has provided an awesome [seq2seq tutorial](https://www.tensorflo
 | Who is the president of United States? | The president of united states , who is , hmm ? |
 | What time is it now? | It now , what time is , hmm ? Hmmmmmm . |
 | I need to go grocery shopping | To go shopping shopping I need . |
+| Today is a good day to die. | Good day to die , today is . | 
 | Do you want to come to my house tonight? | Go do to my trek trek do you , hmm ? |
 | You must have patience! | Fun , you must have ! |
 | What's up?  | What ' s up , hmm ? |
@@ -38,6 +39,7 @@ Tensorflow team has provided an awesome [seq2seq tutorial](https://www.tensorflo
 | I am your father. | Your victim , I am . |
 | I love you | You , I love you . |
 | You have become powerful | Become powerful , you have . |
+| You are a stubborn northern lass | Canadian-owned a northern residents , you are . Herh herh herh . |
 | Tell me some wise words! | Me some words tell Me ! Herh herh herh . |
 | The belief exists in returning to integrity. | To russia the moral exists in ss . |
 | You should stop cursing | Never stop , you should . |

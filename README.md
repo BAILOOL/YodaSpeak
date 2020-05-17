@@ -1,7 +1,7 @@
 # YodaSpeak
 Translating English to Yoda English using Sequence-to-Sequence with Tensorflow.
 
-Follow the link for online [demo](http://yodaspeakseq2seq.info/).
+!!!Online [demo](http://yodaspeakseq2seq.info/) is not longer available!!!
 
 ## Why
 Tensorflow team has provided an awesome [seq2seq tutorial](https://www.tensorflow.org/versions/r1.3/tutorials/seq2seq) on neural network to translate English to French. Though, when I've trained their network, I've had no idea how well it performs in terms of translation from a human perspective since I do not speak French. So, I've decided to perform translation on something that is apprehendable from both sides. Subsequently, [YodaSpeakSeq2Seq](http://yodaspeakseq2seq.info/) appeared.
